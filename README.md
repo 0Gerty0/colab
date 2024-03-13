@@ -1,3 +1,1 @@
 random text
-
-some phrase
